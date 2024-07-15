@@ -1,0 +1,3 @@
+﻿
+ssl problems with pushing to git
+git config --global http.sslBackend schannel
